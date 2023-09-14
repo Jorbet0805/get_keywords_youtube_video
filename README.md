@@ -1,0 +1,3 @@
+The following software allows users to input a YouTube video URL, process it, and extract the most frequently occurring keywords from the video. Please note that the program may encounter issues with age-restricted YouTube videos.
+
+By making these changes, the description becomes clearer and more concise. It highlights the main functionality of the software, which is to process YouTube videos and extract commonly used keywords. Additionally, it acknowledges the potential limitation of age-restricted videos.
